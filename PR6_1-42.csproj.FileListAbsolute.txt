@@ -1,0 +1,11 @@
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\bin\Release\PR6_1-42.exe.config
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\bin\Release\PR6_1-42.exe
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\bin\Release\PR6_1-42.pdb
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1-42.csprojAssemblyReference.cache
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1_42.Сложение.resources
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1_42.Properties.Resources.resources
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1-42.csproj.GenerateResource.cache
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1-42.exe
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\obj\Release\PR6_1-42.pdb
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\bin\Release\PR6_1-42.exe.CodeAnalysisLog.xml
+C:\Users\ReDoG218\Desktop\Долги Лаптева\Программа\PR6_1-42\PR6_1-42\bin\Release\PR6_1-42.exe.lastcodeanalysissucceeded
